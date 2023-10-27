@@ -1,0 +1,2 @@
+Model: Raven DVT;
+Compatible: google,GS101 Raven;google,GS101;
